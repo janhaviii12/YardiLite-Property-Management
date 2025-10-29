@@ -28,7 +28,9 @@ This project showcases how data-driven insights can transform real estate manage
 It reflects the potential of analytics in real estate to turn complex data into clear, actionable strategies.
 
 👩‍💻 Author
+
 Janhavi Dhaygude
+
 Aspirirng Data Analyst
 
 Portfolio - https://janhaviii12.github.io/Portfolio-JanhaviDhaygude/
