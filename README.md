@@ -30,5 +30,7 @@ It reflects the potential of analytics in real estate to turn complex data into 
 👩‍💻 Author
 Janhavi Dhaygude
 Aspirirng Data Analyst
+
 Portfolio - https://janhaviii12.github.io/Portfolio-JanhaviDhaygude/
+
 LinkedIn - https://www.linkedin.com/in/janhavi-dhaygude-551669218/
